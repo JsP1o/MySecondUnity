@@ -1922,8 +1922,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   testDatas: {fileID: 11400000, guid: b30fc927821152f4a815fd2d9a688cf2, type: 2}
-  dialogueDatas: {fileID: 11400000, guid: 9e55ed91d0486e44089b3839a2aeb749, type: 2}
-  characterDatas: {fileID: 11400000, guid: 42bdb79742dde534fa04e315ec6c78e1, type: 2}
+  dialogueDatas: {fileID: 0}
+  characterDatas: {fileID: 0}
 --- !u!1 &2079428979
 GameObject:
   m_ObjectHideFlags: 0
